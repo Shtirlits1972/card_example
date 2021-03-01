@@ -83,15 +83,6 @@ class MyApp extends StatelessWidget {
                         flex: 1),
                   ],
                 ),
-                // Card(
-                //   shape: RoundedRectangleBorder(
-                //     borderRadius: BorderRadius.circular(15.0),
-                //   ),
-                //   color: Colors.green,
-                //   child: Container(
-                //     margin: EdgeInsets.all(20),
-                //   ),
-                // ),
               ),
             ]),
           ),
